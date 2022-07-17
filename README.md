@@ -33,8 +33,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Using XCode for the first time and familiarizing myself to Swift was challenging to
+me because it can be daunting when working with a new program and a new language.
+It was fun to see the output of the code seeing the tangible results of putting
+pieces together.
 
 ## License
 
